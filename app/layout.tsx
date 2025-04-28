@@ -7,9 +7,9 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "NeuralPulse - AI, GenAI, Computer Vision & Deep Learning Blog",
+  title: "Future Bonk",
   description: "Exploring the frontiers of artificial intelligence, generative AI, computer vision, and deep learning.",
-    generator: 'v0.dev'
+    generator: 'Next.js'
 }
 
 export default function RootLayout({

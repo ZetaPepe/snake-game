@@ -95,7 +95,7 @@ export default function Home() {
                   <h1 className="text-4xl md:text-6xl font-bold leading-tight">
                     {" "}
                     <span className="text-purple-500">
-                      <TypingText text=" Future Bonk" delay={500} />
+                      <TypingText text="     Future Bonk" delay={500} />
                     </span>
                   </h1>
                 </FadeIn>

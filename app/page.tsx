@@ -122,7 +122,7 @@ export default function Home() {
               <FadeIn direction="left" delay={0.2}>
                 <div className="relative h-[400px] rounded-xl overflow-hidden border border-gray-800">
                   <Image
-                    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&h=800&auto=format&fit=crop"
+                    src="images/FutureBonk.png"
                     alt="AI visualization showing neural network connections"
                     fill
                     className="object-cover"

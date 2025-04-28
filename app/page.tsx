@@ -93,9 +93,9 @@ export default function Home() {
               <div className="space-y-6">
                 <FadeIn>
                   <h1 className="text-4xl md:text-6xl font-bold leading-tight">
-                    {" "}
+                    Exploring the Frontiers of{" "}
                     <span className="text-purple-500">
-                      <TypingText text="     Future Bonk" delay={500} />
+                      <TypingText text="Future Bonk" delay={500} />
                     </span>
                   </h1>
                 </FadeIn>
